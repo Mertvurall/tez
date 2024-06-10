@@ -58,5 +58,5 @@ This project comprises the development of an e-commerce website, which formed pa
 Start by cloning the repository:
 
 ```sh
-git https://github.com/h-babacan/tez
+git https://github.com/Mertvurall/tez
 cd tez
