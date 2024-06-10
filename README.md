@@ -1,4 +1,4 @@
-#E-COMMERCE SITE GRADUATION ASSIGNMENT
+# E-COMMERCE SITE GRADUATION ASSIGNMENT
 
 ##### THIS ASSIGNMENT MADE BY MERT VURAL AND HUSEYIN BABACAN IN 2024 AT CUKUROVA UNIVERSITY
 
@@ -45,7 +45,7 @@ This project comprises the development of an e-commerce website, which formed pa
 - SQL SERVER MANAGEMENT STUDIO
 
 
-##Requirements
+## Requirements
 - Ajax library
 - Owin
 - Bootstrap
